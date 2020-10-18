@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+
+input::-webkit-input-placeholder {
+  font-size: 14px;
+  line-height: 3;
+}
+
+.nav__search {
+  width: 300px !important;
+  border-radius: 10px;
+  margin-left: 130px;
+}
+
+.icon__nav__search {
+  margin-left: -50px;
+  border-radius: 0 10px 10px 0;
+}
+
+.collapse__2 {
+  margin-left: 400px;
+}
+
+.nav__logo {
+  margin-left: 50px;
+}
+
+.nav__bottom {
+  background-color: #0a223d;
+}
+
+.mr__nav__link {
+  font-family: "Mulish", sans-serif;
+  font-size: 12px;
+  margin-right: 80px;
+  color: #fff !important;
+}

@@ -1,0 +1,82 @@
+.footer__jumbotron {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(10, 34, 61, 0.8) 0%,
+      rgba(10, 34, 61, 0.8) 80%
+    ),
+    url(../../Images/Footer.png);
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.footer-bottom__jumbotron {
+  height: 800px;
+  margin-top: 90px;
+  margin-bottom: 0;
+  background-color: #0a223d;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text__white {
+  color: #fff;
+  text-align: start;
+}
+
+.input__email {
+  margin-left: 600px;
+}
+
+.col__email {
+  top: -50px;
+}
+
+.col__text {
+  padding-left: 150px;
+}
+
+.text-stly__footer {
+  color: #fff;
+  font-size: 18px;
+}
+
+.list__footer {
+  color: rgb(233, 229, 229);
+  list-style-type: none;
+  text-align: start;
+  margin-top: 20px;
+  margin-left: 18px;
+}
+
+.icon__style {
+  margin-left: 15px;
+}
+
+.social__network {
+  color: #fff;
+  margin-left: 25px;
+  font-size: 18px;
+  font-weight: 400;
+  margin-right: 15px;
+}
+
+.col__details {
+  color: #fff;
+  text-align: start;
+}
